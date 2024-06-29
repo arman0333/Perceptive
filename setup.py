@@ -6,7 +6,7 @@ setup(
     description='A CLI tool for anime quotes and ASCII art',
     author='Arman Sethi',
     author_email='armansethi64@gmail.com',
-    url='https://github.com/yourusername/anime-cli',
+    url='https://github.com/arman0333/anime-cli',
     packages=find_packages(),
     include_package_data=True,
     install_requires=[
